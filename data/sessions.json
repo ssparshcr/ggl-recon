@@ -1,0 +1,75 @@
+{
+  "sessions": {
+    "94g4DoUfb0qvjlHYPykR5tQqjzlnFdU_mjKI0R2Y5UA": {
+      "username": "viewer",
+      "role": "viewer",
+      "created_at": "2026-11-12T15:20:17.723788",
+      "expires_ts": 1794563417.723795,
+      "expires_at": "2026-11-13T15:20:17.723788"
+    },
+    "tbn7lMAt-WwJhQy8MhHSbj5b0aKQRqlqKEySvtfWZXA": {
+      "username": "admin",
+      "role": "admin",
+      "created_at": "2026-11-12T15:20:56.267612",
+      "expires_ts": 1794563456.26762,
+      "expires_at": "2026-11-13T15:20:56.267612"
+    },
+    "iX8lGEsHRufGZuG3YeKvIkwtMETcUn0WAsFI-67dSOk": {
+      "username": "admin",
+      "role": "admin",
+      "created_at": "2026-11-12T15:25:06.591440",
+      "expires_ts": 1794563706.591447,
+      "expires_at": "2026-11-13T15:25:06.591440"
+    },
+    "nov72jSZrWm6WvvB6YSpKZ9giVXygDUMSoNzqAsxScg": {
+      "username": "admin",
+      "role": "admin",
+      "created_at": "2026-11-12T15:28:47.237122",
+      "expires_ts": 1794563927.237129,
+      "expires_at": "2026-11-13T15:28:47.237122"
+    },
+    "Unu6yJ1h6_e_x6sNqQnLzMl8LLL-E8EsDp5x0dDBRW8": {
+      "username": "viewer",
+      "role": "viewer",
+      "created_at": "2026-11-12T15:28:47.290453",
+      "expires_ts": 1794563927.290459,
+      "expires_at": "2026-11-13T15:28:47.290453"
+    },
+    "6qq4y3Ftdbhs-BhOCsZBmy88Dd-t5AB3jemndevtkf8": {
+      "username": "admin",
+      "role": "admin",
+      "created_at": "2026-11-12T15:29:01.344006",
+      "expires_ts": 1794563941.3440151,
+      "expires_at": "2026-11-13T15:29:01.344006"
+    },
+    "W3DPFdXjzZY-gNl8snBscsEeUWAytvDxNEaP3OZJa6s": {
+      "username": "admin",
+      "role": "admin",
+      "created_at": "2026-11-12T15:29:13.174011",
+      "expires_ts": 1794563953.174022,
+      "expires_at": "2026-11-13T15:29:13.174011"
+    },
+    "JY_Q1rYAfulWpRkpw9kw10p_OYdoWHWYcscawC_qt_Q": {
+      "username": "admin",
+      "role": "admin",
+      "created_at": "2026-11-12T15:30:49.846901",
+      "expires_ts": 1794564049.8469172,
+      "expires_at": "2026-11-13T15:30:49.846901"
+    },
+    "0PTvYYx99akRM8lpO2_3yTk8trrEAssRy_4C52TrsRw": {
+      "username": "admin",
+      "role": "admin",
+      "created_at": "2026-11-12T15:37:13.560997",
+      "expires_ts": 1794564433.5610082,
+      "expires_at": "2026-11-13T15:37:13.560997"
+    },
+    "k1u783n48rtw0TRBJckmxDV2BbVF6L_6poBcRWqgTBI": {
+      "username": "viewer",
+      "role": "viewer",
+      "created_at": "2026-11-12T15:37:13.615590",
+      "expires_ts": 1794564433.615597,
+      "expires_at": "2026-11-13T15:37:13.615590"
+    }
+  },
+  "updated_at": "2026-11-12T15:37:13.616018"
+}

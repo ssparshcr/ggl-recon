@@ -1,0 +1,25 @@
+{
+  "users": {
+    "admin": {
+      "username": "admin",
+      "name": "Mehta Impex Admin",
+      "role": "admin",
+      "salt": "910d9c54823694f2aa75d15e8b6d793f",
+      "password_hash": "66db6a2828498a83338395e7725388371982daad0abc021a0fba9a3dde67f23b",
+      "active": true,
+      "created_at": "2026-11-12T15:20:00.419870",
+      "last_login": "2026-11-12T15:37:13.560997"
+    },
+    "viewer": {
+      "username": "viewer",
+      "name": "Audit Viewer (Read-Only)",
+      "role": "viewer",
+      "salt": "2c230662bbc07b286c0d45b23e6aec35",
+      "password_hash": "fb820ff006a8a0d4e1a7fbf6289d2afddd0bea9944ce55ef40dc235926ded9f3",
+      "active": true,
+      "created_at": "2026-11-12T15:20:00.419870",
+      "last_login": "2026-11-12T15:37:13.615590"
+    }
+  },
+  "updated_at": "2026-11-12T15:37:13.615612"
+}
