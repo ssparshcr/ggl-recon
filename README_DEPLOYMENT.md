@@ -1,10 +1,21 @@
-# 🚀 24/7 Global Deployment Guide for GGL-Recon
+# 🚀 24/7 Global Deployment Details & Account Records
 
-To share a single permanent HTTPS link with anyone in the world that stays online **24 hours a day (even when your Mac is asleep or powered off)**, deploy this folder (`ggl_recon_app/`) to a cloud host or attach a **Named Cloudflare Tunnel** on an always-on machine.
+### 📌 Live Cloud Production Details
+- **Email ID for Accounts:** `sparshcr@gmail.com`
+- **Render Account:**
+  - Registered Email: `sparshcr@gmail.com`
+  - Workspace: `Sparsh's workspace` (`tea-dbtb9ndckfvc73ebo0q0`)
+  - Web Service: `ggl-recon` (`srv-dbtbfr3bc2fs73dm9v30`)
+  - **Live 24/7 URL:** `https://ggl-recon.onrender.com`
+- **GitHub Account:**
+  - Registered Email: `sparshcr@gmail.com`
+  - Username: `ssparshcr`
+  - Repository: `https://github.com/ssparshcr/ggl-recon`
+  - Branch: `main`
 
 ---
 
-## Option 1: Permanent 24/7 Cloud Hosting (Recommended — Zero Mac Dependency)
+## 24/7 Global Deployment Architecture
 
 Everything in this folder (`requirements.txt`, `Dockerfile`, `Procfile`, `render.yaml`, and Python 3.9–3.13+ compatibility) is already configured for 1-click cloud deployment.
 
